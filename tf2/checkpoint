@@ -1,0 +1,2 @@
+model_checkpoint_path: "ResNet18_on_CIFAR10.ckpt"
+all_model_checkpoint_paths: "ResNet18_on_CIFAR10.ckpt"
